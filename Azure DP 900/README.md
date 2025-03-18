@@ -12,10 +12,6 @@ Here are the core concepts covered in the **AZ-900 exam**:
 
 ### ✅ Analytics Workloads – *25-30%*
 
----
-
-> **Tip:** Mastering AZ-900 gives you a strong foundation in Azure cloud concepts, services, and data principles before moving to advanced data engineering roles like **DP-203**.
-
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
   <a href="https://www.linkedin.com/in/tajamulkhann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
