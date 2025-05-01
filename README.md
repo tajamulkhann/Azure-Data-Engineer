@@ -12,7 +12,7 @@ If you're looking for someone who can **guide you to guaranteed success**, you c
 | Certification                              | Resources                                      |
 |--------------------------------------------|------------------------------------------------|
 | **Azure Data Fundamentals**       | [Click here](https://github.com/tajamulkhann/Azure-Data-Engineer/tree/main/DP%20900%20-%20Azure%20Fundamentals)              |
-| **Fabric Data Engineer Associate (DP-700)**| [Click here](https://github.com/tajamulkhann/Azure-Data-Engineer/tree/main/DP%20700%20-%20Fabric%20Data%20Engineer)              |
+| **Fabric Data Engineer Associate**| [Click here](https://github.com/tajamulkhann/Azure-Data-Engineer/tree/main/DP%20700%20-%20Fabric%20Data%20Engineer)              |
 
 ---
 
