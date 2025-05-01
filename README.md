@@ -11,7 +11,7 @@ If you're looking for someone who can **guide you to guaranteed success**, you c
 
 | Certification                              | Resources                                      |
 |--------------------------------------------|------------------------------------------------|
-| **Azure Data Fundamentals (DP-900)**       | *Add your curated links here*                 |
+| **Azure Data Fundamentals**       | *Add your curated links here*                 |
 | **Fabric Data Engineer Associate (DP-700)**| *Add your curated links here*                 |
 
 ---
