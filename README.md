@@ -16,7 +16,7 @@ If you're looking for someone who can **guide you to guaranteed success**, you c
 
 ---
 
-## Azure Certifications
+## Microsoft Certifications
 
 | Certification                              | Level          | Purpose                                                                                          | Tools & Skills Covered                                                                 |
 |-------------------------------------------|----------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
