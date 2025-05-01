@@ -1,6 +1,3 @@
-## Azure Data Engineer
-
-| Certification                        | Level        | Purpose                                                                 | Tools & Skills Covered                                                |
-|-------------------------------------|--------------|-------------------------------------------------------------------------|------------------------------------------------------------------------|
-| **DP-900: Azure Data Fundamentals** | 🟢 Beginner   | Build a strong foundation in core data concepts and Azure data services | Databases, Data Warehousing, Big Data, Analytics, Azure Synapse        |
-| **DP-700: Designing and Implementing Microsoft Azure Data Solutions** | 🟡 Intermediate | Design and implement modern data solutions using Azure services         | Azure Synapse, Azure Data Lake, Azure Data Factory, SQL Pools          |
+--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **DP-900: Azure Data Fundamentals**         | 🟢 Beginner    | Build a strong foundation in core data concepts and Azure data services        | Databases, Data Warehousing, Big Data, Analytics, Azure Synapse                                         |
+| **DP-700: Fabric Data Engineer Associate**  | 🟡 Intermediate| Design, implement, and optimize modern data engineering solutions using Microsoft Fabric | Microsoft Fabric, OneLake, Data Factory, Synapse Data Engineering, Data Warehousing, Real-Time Analytics, SQL, PySpark, KQL |
