@@ -5,8 +5,9 @@ To develop a fully integrated and scalable Product Sales Analytics Dashboard usi
 
 🔗 [View the Power BI Report](https://app.powerbi.com/groups/me/reports/46123a15-23ee-4c68-93ea-da322912e771/ReportSection?experience=power-bi)
 
-### 🧱 1. Workspace & Architecture Setup
 ---
+### 🧱 1. Workspace & Architecture Setup
+
 Step 1: Fabric Workspace Creation
 Created a Fabric Capacity Workspace with all essential features:
 
@@ -20,8 +21,10 @@ Notebooks
 
 Dataflows Gen2
 
-### 🗂 2. Data Ingestion & Storage
 ---
+
+### 🗂 2. Data Ingestion & Storage
+
 Step 2: Lakehouse and Warehouse Setup
 Lakehouse: Established as the core storage layer for all structured and semi-structured datasets.
 
@@ -45,8 +48,10 @@ Transformation chaining
 
 Output saved into Lakehouse tables
 
-### 🧩 3. Data Modeling
 ---
+
+### 🧩 3. Data Modeling
+
 Step 4: Modeled via SQL Endpoint
 Accessed Lakehouse SQL Endpoint to build relationships and logic.
 
@@ -68,8 +73,10 @@ YoY Growth
 
 Target Achievement %
 
-### 📊 4. Report Design in Power BI
 ---
+
+### 📊 4. Report Design in Power BI
+
 Step 5: Dashboard Creation (Based on Shared Visual)
 Designed an insight-driven dashboard highlighting:
 
@@ -107,8 +114,10 @@ Top SKUs:
 
 Prod318 (₹9M), Prod316, Prod324, Prod329, Prod319
 
-### 🚀 5. Deployment & Insights Delivery
 ---
+
+### 🚀 5. Deployment & Insights Delivery
+
 Step 6: Report Sharing & Real-Time Access
 Published the Power BI report within the Fabric workspace using Direct Lake connectivity
 
@@ -116,8 +125,10 @@ Enabled real-time querying with no scheduled refreshes
 
 Shared via role-based access to key business stakeholders
 
-### ✅ Project Highlights
 ---
+
+### ✅ Project Highlights
+
 Unified Fabric tools: Pipelines, Dataflows, Notebooks, Lakehouse, Power BI
 
 Applied both basic and complex transformations
