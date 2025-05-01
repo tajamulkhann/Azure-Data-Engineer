@@ -1,6 +1,6 @@
 ## Azure Data Engineer
 
-I am a [**Microsoft Certified Azure Data Engineer**](https://learn.microsoft.com/en-us/users/tajamulkhan/credentials/certification/fabric-data-engineer-associate?tab=credentials-tab), having cleared the **Fabric Data Engineer Associate exam** with an impressive **score of 90%**.
+I am a [**Microsoft Certified: Fabric Data Engineer**](https://learn.microsoft.com/en-us/users/tajamulkhan/credentials/certification/fabric-data-engineer-associate?tab=credentials-tab), having cleared the **Fabric Data Engineer Associate exam** with an impressive **score of 90%**.
 
 If you're looking for someone who can **guide you to guaranteed success**, you can book a 1:1 session with me here:  
 👉 [Book a Session with Me on Topmate](https://topmate.io/tajamulkhan/1516477)
